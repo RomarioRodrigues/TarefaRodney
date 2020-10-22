@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Laboratorio_programacao</string>
+    <string name="tipo_conta_prompt">Selecionar</string>
+    <string name="diretoria_prompt">Selecionar</string>
+    <string-array name="tipo_conta_items">
+        <item>COORDENADOR</item>
+        <item>DIRETOR</item>
+        <item>PROFESSOR</item>
+        <item>RH</item>
+    </string-array>
+    <string-array name="diretoria_items">
+        <item>ADMINISTRACAO</item>
+        <item>CIENCIAS CONTABEIS</item>
+        <item>DIREITO</item>
+        <item>PEDAGOGIA</item>
+        <item>SISTEMAS DE INFORMACAO</item>
+        <item>MARKETING</item>
+        <item>RECURSOS HUMANOS</item>
+        <item>GESTAO FINANCEIRA</item>
+        <item>LOGISTICA</item>
+    </string-array>
+</resources>
